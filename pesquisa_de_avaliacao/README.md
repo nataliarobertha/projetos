@@ -17,11 +17,4 @@ No final, o programa calcula e exibe automaticamente o total de respostas **Exce
 - **Estrutura de Repetição (`for`)**: Para repetir a pesquisa 50 vezes.
 - **Estrutura de Decisão (`if/elif`)**: Para classificar as opiniões dos clientes.
 
-## 📁 Como rodar o projeto
-
-1. Tenha o Python instalado no seu PC.
-2. Baixe o arquivo `pesquisa.py`.
-3. Abra o terminal e digite:
-   ```bash
-   python pesquisa.py
-   ```
+##
