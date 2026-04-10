@@ -1,14 +1,19 @@
-# contador
+# Programa: Empresa de marketing TudoWeb, tarefa de avalição
+# GitHub: git clone https://github.com/natal/consumo-energia.git
+# 📱 Execute: py app.py
+
+# #contador
+
 excelente = 0
 ruim = 0
 
-print("--- Empresa de marketing TudoWeb, atividade - Pesquisa---")
+print("--- 📝  Empresa de marketing TudoWeb, tarefa de avalição---")
 
 
-for i in range(1, 13):
+for i in range(1, 11):
     print(f"\nEntrevistado nº {i}")
     
-    # Pesquisa
+    # pesquisa de satisfação
     nome = input("Digite o nome: ")
     idade = int(input("Digite a idade: "))
     
@@ -21,9 +26,9 @@ for i in range(1, 13):
         excelente = excelente + 1
     elif opiniao == 3:
         ruim = ruim + 1
-    
+  
 
-# resultado
+# Resultado
 print("\n" + "="*30)
 print("📊 RESULTADO FINAL DA PESQUISA")
 print(f"Quantidade de respostas EXCELENTE: {excelente}")
