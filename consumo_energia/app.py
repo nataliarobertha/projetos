@@ -1,8 +1,8 @@
 # Programa: Calculadora de Consumo de Energia
-# GitHub: git clone https://github.com/natal/consumo-energia.git
+# GitHub: git clone https://github.com/nataliarobertha/consumo-energia.git
 # 📱 Execute: py app.py
 
-print("🔥 Projeto open source! Clone: https://github.com/natal/consumo-energia")
+print("🔥 Projeto open source! Clone: https://github.comn/nataliarobertha/consumo-energia")
 print("=" * 50)
 
 # Entrada de dados
@@ -20,4 +20,4 @@ print("\n--- Resultado Final 📊 ---")
 print(f"🚀 Aparelho: {nome}")
 print(f"⚡ Consumo: {consumo:.2f} kWh/mês")
 print(f"💰 Custo: R$ {custo:.2f}")
-print("\n⭐ Clone este projeto: git clone https://github.com/natal/consumo-energia.git")
+print("\n⭐ Clone este projeto: git clone https://github.com/nataliarobertha/consumo-energia.git")
