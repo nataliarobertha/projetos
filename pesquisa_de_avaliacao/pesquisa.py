@@ -1,9 +1,10 @@
 # Programa: Empresa de marketing TudoWeb, tarefa de avalição
-# GitHub: git clone https://github.com/natal/consumo-energia.git
+# GitHub: git clone https://github.com/nataliarobertha/pesquisa_de_avaliacao.git
 # 📱 Execute: py app.py
 
-# #contador
+print("🔥 Projeto open source! Clone: https://github.comn/nataliarobertha/pesquisa_de_avaliacao")
 
+#contador
 excelente = 0
 ruim = 0
 
@@ -34,3 +35,5 @@ print("📊 RESULTADO FINAL DA PESQUISA")
 print(f"Quantidade de respostas EXCELENTE: {excelente}")
 print(f"Quantidade de respostas RUIM: {ruim}")
 print("="*30)
+
+print("\n⭐ Clone este projeto: git clone https://github.com/nataliarobertha/pesquisa_de_avaliacao.git")
