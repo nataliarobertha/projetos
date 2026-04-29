@@ -1,4 +1,7 @@
-#colocar cor
+# Programa: Calculadora de Consumo de Energia
+# GitHub: git clone https://github.com/nataliarobertha/monitoramento_de_agua.py
+
+# #colocar cor
 from colorama import Fore, Style, init
 import time
 
