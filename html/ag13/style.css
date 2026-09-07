@@ -1,0 +1,19 @@
+/* CONTAINER FLEXBOX: organiza as seções uma embaixo da outra */
+.container {
+    display: flex;
+    flex-direction: column;
+    /* Esta linha faz as seções ficarem uma embaixo da outra */
+    gap: 20px;
+    /* Espaço entre as seções empilhadas */
+}
+
+/* Ajuste opcional na altura das imagens para não ficarem gigantes no modo coluna */
+.imagem-portal {
+    width: 100%;
+    max-width: 400px;
+    /* Limita a largurapara não esticar demais */
+    height: auto;
+    margin: 10px auto;
+    /* Centraliza a imagem */
+    display: block;
+}
